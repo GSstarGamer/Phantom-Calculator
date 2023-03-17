@@ -1,7 +1,7 @@
 
 # PhantomisForced with maths
 
-This is a Python script that includes several functions to help with calculations related to the Phantom Forces game. The functions available are:
+This is a Python script that includes several functions to help with calculations related to the [Phantom Forces](https://www.roblox.com/games/292439477) game. The functions available are:
 
 ### `roundNum(number, place)`
 
